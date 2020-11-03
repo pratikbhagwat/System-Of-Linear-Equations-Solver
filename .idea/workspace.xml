@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb967c64-84fc-464a-811b-52d65673123b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jlCycOu5FasnDW8BL64COp6Jqn" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb967c64-84fc-464a-811b-52d65673123b" name="Default Changelist" comment="" />
+      <created>1604369546488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604369546488</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="343" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1604369664106">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="569" y="343" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.827@0.23.1440.827" timestamp="1604369664106" />
+    <state x="72" y="39" key="CommitChangelistDialog2" timestamp="1604369636282">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="72" y="39" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1604369636282" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1604369646361">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1604369646361" />
+  </component>
+</project>
